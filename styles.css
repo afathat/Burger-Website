@@ -1,0 +1,87 @@
+h1 {
+  text-align: center;
+  color: rgb(0, 167, 153);
+  font-family: Poetsen One;
+  font-size: 50px;
+  margin-top: 60px;
+  margin-bottom: 80px;
+}
+
+h2 {
+  text-align: left;
+  color: rgb(0, 167, 153);
+  font-family: Poetsen One;
+  font-size: 35px;
+  margin-bottom: 35px;
+  margin-left: 3%;
+}
+
+p {
+  text-align: left;
+  color: rgb(0, 167, 153);
+  font-family: Poetsen One;
+  font-size: 20px;
+  margin-left: 3%;
+  line-height: 27px;
+  margin-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 167, 153);
+}
+
+.burger-box {
+  display: flex;
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  margin-bottom: 80px;
+}
+
+.burger-type {
+  text-align: center;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.burger-link {
+  text-decoration: none;
+  color: rgb(0, 167, 153);
+  font-family: Poetsen One;
+  font-size: 40px;
+}
+
+.burger-image {
+  width: 450px;
+  height: 350px;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+
+.back-link {
+  font-size: 35px;
+  margin-top: 35px;
+  margin-left: 3%;
+}
+
+.burger-info {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.burger-image-big {
+  width: 700px;
+  border-radius: 15px;
+}
+
+.burger-heading {
+  margin-left: 0;
+}
+
+.burger-description {
+  margin-left: 0;
+}
